@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=IntelliJ
+Comment=IDE Java
+Exec=docker start intellij
+Icon=/home/espe/Escritorio/ordinaria/.icons/idea.png
+Terminal=false
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=VSCode
+Comment=IDE
+Exec=docker start vscode
+Icon=/home/espe/Escritorio/ordinaria/.icons/vscode.png
+Terminal=false
+Type=Application
